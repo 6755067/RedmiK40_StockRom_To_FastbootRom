@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL:https://bigota.d.miui.com/21.6.29/miui_VENUS_21.6.29_ada84b79d0_11.0.zip
-  ROM_Version: miui21.6.29mi11
+  ROM_URL:https://117-147-192-1.ksyungslb.com/bigota.d.miui.com/20.9.4/miui_MI8_20.9.4_21d22b073e_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fxiaomirom.com%2Fdownload%2Fmi-8-dipper-weekly-20.9.4%2F
+  ROM_Version: miui_MI8_20.9.4
   TZ: Asia/Shanghai
 
 jobs:
